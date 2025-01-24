@@ -5,3 +5,6 @@
 "Hello world" = var
 var(print)
 ```
+- [x] Turn on pc
+- [x] Go to github.com
+- [ ] Start working
